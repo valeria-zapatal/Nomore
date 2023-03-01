@@ -1,0 +1,32 @@
+h1 {
+  color: chocolate;
+  text-shadow: black 2px 2px;
+}
+
+h3 {
+  color: maroon;
+  text-align: center;
+  background-color: darkslategrey;
+  font-size: 20px;
+}
+
+#bgamarillo {
+  background-color: yellow;
+}
+
+#fontverde {
+  color: green;
+}
+
+#colorblaco {
+  background-color: black;
+  color: white;
+}
+
+#colorazul {
+  color: blue;
+}
+
+h2 {
+  text-shadow: black 2px 1px;
+}
